@@ -1,0 +1,4 @@
+baseURL = "https://lovemusic-ruby44.vercel.app"
+languageCode = "en-us"
+title = "Sheet Music For Love"
+theme = "hugo-theme-minos"
